@@ -1,1 +1,22 @@
-Hola mundo
+ 
+
+1. git log   ===>   me muestra los commit locales
+
+2. git add .\archivo2.txt    ===>     Envío parte del trabajo 
+
+        puedo usar tambien git add -all
+
+ 3.  git commit -m "arreglando texto"   ===>    para enviarlo al repositorio local
+ 
+4. git status   ===>   para ver el estado de los archivos
+
+ 5. git push origin master   ===>     Para subir el repositorio a mi github
+
+
+ CREANDO UN REPOSITORIO DESDE github
+
+ 1. 
+ 2.
+ 3. remote add origin https://github.com/elkinjllo/PruebaCursoGit.git   esto lo pego en VScode.
+
+        la palabra ORIGIN es el nombre que yo le quiero dar
